@@ -1,0 +1,11 @@
+streamlit
+transformers
+sentencepiece
+sacrebleu
+rouge-score
+st-annotated-text
+langchain
+langchain-community
+langchain-groq
+chromadb
+matplotlib
